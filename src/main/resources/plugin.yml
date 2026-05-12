@@ -1,0 +1,6 @@
+name: BedrockAutoLogin
+version: 1.0
+main: me.mohapre.Main
+api-version: 1.21
+depend: [AuthMe]
+
